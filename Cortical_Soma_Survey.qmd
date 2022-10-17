@@ -14,7 +14,7 @@ suppress-bibliography: False
 
 Paper Selection: A recent paper from my PhD work currently available on biorxiv: <https://doi.org/10.1101/2022.07.20.499976>
 
-Motivation: When asking other scientists how they tend to read papers, a common response is that people focus only on the figures, jumping from one to the next whilst largely skipping the text. While I have tried this approach, I find that my attempt to focus on the figures I am always wondering what the authors acutally said about the figure and so I end up scrolling back and forth between text and figures. With this in mind, I thought it would be nice if we could see all the excerpts where a given figure has been referenced in the paper, similar to how you can see where a function/variable has been referenced while programming.
+Motivation: When asking other scientists how they tend to read papers, a common response is that people focus only on the figures, jumping from one to the next whilst largely skipping the text. While I have tried this approach, I find that I am always wondering what the authors acutally said about the figure and so I end up scrolling back and forth between text and figures. With this in mind, I thought it would be nice if we could see all the excerpts where a given figure has been referenced in the paper, similar to how you can see where a function/variable has been referenced while programming.
 
 Augmentation: Adding an expandable callout window above each figure that allows you to see all the points where the figure was referenced without having to navigate away from the figure itself.
 
